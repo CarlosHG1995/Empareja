@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:typeface">sans</item>
+        <item name="android:textColor">#20994F</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Estilo_propio_botones" >
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/press_start_2p</item>
+        <item name="android:textColor">#A01F1F</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:background">#268D54</item>
+
+    </style>
+    <style name="Estilo_propio_botones.negro">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Estilo_propio_textos">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/almendra</item>
+        <item name="android:gravity">center_horizontal|center_vertical</item>
+        <item name="android:lineSpacingExtra">10sp</item>
+        <item name="android:textColor">#0C9213</item>
+        <item name="android:textSize">36sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <!--  android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:theme="@style/Theme.AppCompat.Dialog"-->
+
+    </style>
+
+</resources>

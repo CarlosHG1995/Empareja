@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pairing Game</string>
+    <string name="emparejar">Pairing Game</string>
+    <string name="jugar">To Play</string>
+    <string name="configurar">Settings</string>
+    <string name="acerca_de">About</string>
+    <string name="salir">Out</string>
+    <string name="acercade">This application has been developed as final subject work in the Android Fundamentals course, to apply most of the concepts seen during that subject.</string>
+    <string name="puntuaciones">SCORES</string>
+    <string name="nivel">Game level</string>
+    <string name="nivel1">Levels to play</string>
+    <string name="preferencias">Application Preferences</string>
+    <string name="guarda">Save scores</string>
+    <string name="guardar">How do you want to save the scores?</string>
+    <string name="nombre">Name player</string>
+    <string name="nombre1">Enter your name</string>
+    <string name="facil">Easy</string>
+    <string name="medio">Medium</string>
+    <string name="avanzado">Advanced</string>
+    <string name="preferencia1">Preferences</string>
+    <string name="preferencia2">External storage</string>
+    <string name="preferencia3">Own Server</string>
+    <string name="iniciar_juego">INICIAR JUEGO</string>
+    <string name="preferencia4">Array</string>
+    <string name="permiso">Permission request</string>
+    <string name="permiso2">Without the permission you cannot save scores in the external memory</string>
+</resources>

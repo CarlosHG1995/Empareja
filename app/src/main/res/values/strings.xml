@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Empareja</string>
+    <string name="emparejar">Emparejar</string>
+    <string name="jugar">Jugar</string>
+    <string name="configurar">Configurar</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="salir">Salir</string>
+    <string name="acercade">Esta aplicación ha sido desarrollado como trabajo final de asignatura en el curso de Fundamentos de Android, para aplicar la mayor parte de conceptos vistos durante dicha asignatura.</string>
+    <string name="puntuaciones">PUNTUACIONES</string>
+    <string name="nivel">Nivel de juego</string>
+    <string name="nivel1">Niveles para jugar</string>
+    <string name="preferencias">Preferencias de la aplicación</string>
+    <string name="guarda">Guardar puntuaciones</string>
+    <string name="guardar">¿Cómo desea guardar las puntuaciones?</string>
+    <string name="nombre">Nombre del jugador</string>
+    <string name="nombre1">Ingrese su nombre</string>
+    <string name="facil">Fácil</string>
+    <string name="medio">Medio</string>
+    <string name="avanzado">Avanzado</string>
+
+    <string name="preferencia1">Preferencias</string>
+    <string name="preferencia2">Fichero memoria externa</string>
+    <string name="preferencia3">Servidor Propio</string>
+    <string name="preferencia4">Array</string>
+    <string name="iniciar_juego">INICIAR JUEGO</string>
+    <string name="permiso">Solicitud de permiso</string>
+    <string name="permiso2">Sin el permiso no se puede guardar puntuaciones en la memoria externa</string>
+    <string name="todo" translatable="false">TODO</string>
+
+</resources>

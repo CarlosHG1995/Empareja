@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1033983394166",
+    "firebase_url": "https://empareja-firebase.firebaseio.com",
+    "project_id": "empareja-firebase",
+    "storage_bucket": "empareja-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033983394166:android:c4b3dcd5a08aa1bf3efa57",
+        "android_client_info": {
+          "package_name": "com.example.empareja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033983394166-o588m43tbukv9umiend4e1e9s0qp45oa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.empareja",
+            "certificate_hash": "f34b7292aec9e87624e02c2aa013308e50cba4c0"
+          }
+        },
+        {
+          "client_id": "1033983394166-rbuhamdldau01kmma1umsl37dgqg9gm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTaKgVL24NJUOgxlKzP9yYO3mK4D8HF48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033983394166-rbuhamdldau01kmma1umsl37dgqg9gm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
